@@ -116,9 +116,10 @@ section {
     height: 100%;
     margin-top: 25px;
     margin-bottom: 39px;
-    background-color: #2a2c3145;
+    /* background-color: #2a2c3145; */
     height: 113px;
     width: 449px;
+    display: inline-block;
 
 }
 .hidden {

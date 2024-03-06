@@ -52,4 +52,4 @@ async function compositeImage(req, res) {
 
 app.post("/geraAssinatura", (req, res) => compositeImage(req, res));
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`));
+app.listen(port, () => console.log(`Servidor de Assinatura rodando na  ${port}!`));
